@@ -27,12 +27,12 @@ using std::string;      // global use of std::string due to illegality of class 
 
 #define TABLE_SIZE 97   // predefined table size for quick testing of a large array
 
-/*********************************************************
+/**********************************************************
  * Student class contents by section:
  * 1. Student class private data members
  * 2. Student constructor prototypes
  * 3. Student class method prototypes: getters and setters
- *********************************************************/
+ **********************************************************/
 class Student{
 private:
     // 1.
